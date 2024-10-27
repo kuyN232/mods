@@ -1,0 +1,9 @@
+{
+    "name": "artillery-explosion-radius-infinite",
+    "version": "1.0.0",
+    "title": "Artillery Explosion Radius Infinite Research",
+    "author": "Your Name",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Adds infinite research for artillery explosion radius"
+}
